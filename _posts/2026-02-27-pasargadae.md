@@ -2,7 +2,7 @@
 title: پاسارگاد
 description: راهنما لیدری در پاسارگاد
 author: mhkarami97
-categories: [لیدری, تاریخ, ایران]
+categories: [لیدری, تاریخ, ایران, فارس]
 tags: [لیدری, تاریخ, ایران]
 ---
 

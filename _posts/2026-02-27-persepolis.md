@@ -2,7 +2,7 @@
 title: تخت جمشید
 description: راهنما لیدری در تخت جمشید
 author: mhkarami97
-categories: [لیدری, تاریخ, ایران]
+categories: [لیدری, تاریخ, ایران, فارس]
 tags: [لیدری, تاریخ, ایران]
 ---
 

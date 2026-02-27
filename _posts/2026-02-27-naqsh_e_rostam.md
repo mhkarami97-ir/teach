@@ -2,7 +2,7 @@
 title: نقش رستم
 description: راهنما لیدری در نقش رستم
 author: mhkarami97
-categories: [لیدری, تاریخ, ایران]
+categories: [لیدری, تاریخ, ایران, فارس]
 tags: [لیدری, تاریخ, ایران]
 ---
 
